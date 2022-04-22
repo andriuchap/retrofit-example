@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitRepository</string>
+    <string name="dog_picture">Dog picture</string>
+    <string name="dog_age_breed">%d year old %s</string>
+</resources>
